@@ -130,11 +130,12 @@ button:hover {
 
   footer {
     text-align: left;
-    padding: 2em;
+    padding: 0.8em;
   }
 
   footer p {
     margin-left: 2em;
     text-align: left;
   }
+
 }
